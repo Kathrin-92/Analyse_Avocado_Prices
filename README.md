@@ -1,5 +1,6 @@
 # Machine Learning Project: Avocado Price Prediction 
 
+![giphy](https://user-images.githubusercontent.com/71875232/156922109-2141a048-ad62-4006-94c8-7495678d5443.gif)
 
 ## Table of Contents
 1. [General Info](#General-Info)
@@ -37,6 +38,7 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 
 ## Demo
 
+https://user-images.githubusercontent.com/71875232/156922122-741e31f7-2134-4cf9-9b77-40515204ae49.mov
 
 
 ## Usage and Main Functionalities
@@ -54,6 +56,8 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 * Identifying any repetitive, seasonal patterns in the data
 * Creating different line and bar charts for data visualization  
 
+<img width="664" alt="Bildschirmfoto 2022-03-06 um 13 02 07" src="https://user-images.githubusercontent.com/71875232/156922200-6f169d16-fe3d-47e2-97f8-1de43cd0a824.png">
+
 #### 2. Building a forecast model
 * Split data into test and train set 
 * Use Random Forest Regressor to forecast data 
@@ -62,6 +66,8 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 * Calculation of MAE, truncate the float 
 * Clean up the result table 
 * Creating plot comprising the actual values and forecast
+
+<img width="702" alt="Bildschirmfoto 2022-03-06 um 13 02 25" src="https://user-images.githubusercontent.com/71875232/156922218-78c37e8d-d3ce-4d60-bfc2-d2dc8ced3638.png">
 
 #### 4. Dash App Layout
 * plotly's Dash is now used to create an Interactive Dashboard of Netflix data. 
