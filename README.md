@@ -70,7 +70,7 @@ https://user-images.githubusercontent.com/71875232/156922122-741e31f7-2134-4cf9-
 <img width="702" alt="Bildschirmfoto 2022-03-06 um 13 02 25" src="https://user-images.githubusercontent.com/71875232/156922218-78c37e8d-d3ce-4d60-bfc2-d2dc8ced3638.png">
 
 #### 4. Dash App Layout
-* plotly's Dash is now used to create an Interactive Dashboard of Netflix data. 
+* plotly's Dash is now used to create an interactive dashboard 
 * The individual graphics and texts are arranged in rows and containers. 
 * This part also includes a dropdown menu that the user can interact with. 
 
